@@ -277,10 +277,21 @@ footer {
 
 .controllers {
     position: absolute;
-    top: 70px;
+    top: 120px;
 }
-
+.controllers-2 {
+    position: absolute;
+    bottom: 10px;
+}
 .carousel-control.left,
 .carousel-control.right {
     background-image: none;
+
+}
+
+.left-detail{
+    color: #ff160a;
+}
+.right-detail{
+    color: #0040bf;
 }
